@@ -1,1 +1,11 @@
-I'm not sure what goes in here yet but I'm done for the evening so I'll try again tomorrow.
+ay21_hw3 dependecies are:
+
+cpp_common
+rostime
+roscpp_traits
+roscpp_serialization
+catkin
+genmsg
+genpy
+message_runtime
+std_msgs
