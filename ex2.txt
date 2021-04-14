@@ -1,0 +1,27 @@
+All packages that include the string "rqt":
+
+rqt_action /opt/ros/noetic/share/rqt_action
+rqt_bag /opt/ros/noetic/share/rqt_bag
+rqt_bag_plugins /opt/ros/noetic/share/rqt_bag_plugins
+rqt_console /opt/ros/noetic/share/rqt_console
+rqt_dep /opt/ros/noetic/share/rqt_dep
+rqt_graph /opt/ros/noetic/share/rqt_graph
+rqt_gui /opt/ros/noetic/share/rqt_gui
+rqt_gui_cpp /opt/ros/noetic/share/rqt_gui_cpp
+rqt_gui_py /opt/ros/noetic/share/rqt_gui_py
+rqt_image_view /opt/ros/noetic/share/rqt_image_view
+rqt_launch /opt/ros/noetic/share/rqt_launch
+rqt_logger_level /opt/ros/noetic/share/rqt_logger_level
+rqt_msg /opt/ros/noetic/share/rqt_msg
+rqt_plot /opt/ros/noetic/share/rqt_plot
+rqt_publisher /opt/ros/noetic/share/rqt_publisher
+rqt_py_common /opt/ros/noetic/share/rqt_py_common
+rqt_py_console /opt/ros/noetic/share/rqt_py_console
+rqt_reconfigure /opt/ros/noetic/share/rqt_reconfigure
+rqt_service_caller /opt/ros/noetic/share/rqt_service_caller
+rqt_shell /opt/ros/noetic/share/rqt_shell
+rqt_srv /opt/ros/noetic/share/rqt_srv
+rqt_top /opt/ros/noetic/share/rqt_top
+rqt_topic /opt/ros/noetic/share/rqt_topic
+rqt_web /opt/ros/noetic/share/rqt_web
+
