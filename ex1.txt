@@ -1,0 +1,12 @@
+First order dependencies:
+std_msgs
+
+Indirect dependencies:
+cpp_common
+rostime
+roscpp_traits
+roscpp_serialization
+catkin
+genmsg
+genpy
+message_runtime
